@@ -2,7 +2,7 @@ fibonacci-indent
 ================
 
 A Visual Studio Code plugin that helps you indent code according to the Fibonacci sequence.
-The first 2 numbers of the sequence will be
+The first 2 numbers of the sequence will be your tab size.
 
 ## How it works
 
