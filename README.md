@@ -4,6 +4,8 @@ fibonacci-indent
 A Visual Studio Code plugin that helps you indent code according to the Fibonacci sequence.
 The first 2 numbers of the sequence will be your tab size.
 
+![vscode-fibonacci-indent](https://github.com/inoric/vscode-fibonacci-indent/blob/master/preview.png "vscode-fibonacci-indent")
+
 ## How it works
 
 It binds itself to the `tab` key and adds enough indent so it matches the next number in Fibonacci sequence.
