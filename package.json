@@ -4,6 +4,10 @@
     "description": "Indent according to fibonacci sequence - the next indent level is the sum of previous 2.",
     "version": "4.4.8",
     "publisher": "inoric",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/inoric/vscode-fibonacci-indent.git"
+    },
     "engines": {
         "vscode": "^1.26.0"
     },
